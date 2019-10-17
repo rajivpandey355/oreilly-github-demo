@@ -5,7 +5,11 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 ## Getting started
 
-The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
+The first thing you want to do with this repo is quite likely **fork it**.
+https://learning.oreilly.com/videos/learning-github/9781771374835/9781771374835-video234479
+https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
+https://stackoverflow.com/questions/45409799/change-set-maximum-message-size-for-python-smtplib
+Use the Fork button in the top-right section of the page to do this.
 
 Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
 
@@ -15,4 +19,4 @@ Various files to support upcoming GitHub tasks the series trains you for, but mo
 
 ## License
 
-This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
+This repository is © 2015 Christophe Porteneuve, provided. under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
